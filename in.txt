@@ -1,0 +1,8 @@
+S1 S2 S3
+a b
+S1
+S3
+S1 a S2
+S1 b S3
+S2 b S3
+S2 a S2
